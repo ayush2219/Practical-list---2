@@ -8,6 +8,6 @@ int main()
 	cout<<setfill('x')<<setw(10)<<a<<endl;
 	
 	cout<<"Student Name  :: Dholariya Ayush Prafulbhai"<<endl;
-    cout<<"Enrollment no :: 220130318022";  
+    cout<<"Enrollment no :: 220130318022";
   	return 0;  
 }  
